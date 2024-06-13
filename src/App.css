@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 .App {
   text-align: center;
 }
@@ -13,7 +15,7 @@
   }
 }
 
-.App-header {
+main {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -22,6 +24,17 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.header-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-container .interface .texto-logo .texto-logo-icone {
+  font-weight: 800;
+  
 }
 
 .App-link {
