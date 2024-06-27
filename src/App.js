@@ -12,23 +12,23 @@ function App() {
           <nav class="menu-desktop">
             <ul>
               <li>
-                <a href="#">Home</a>
+                <a href="#">HOME</a>
               </li>
               <li>
-                <a href="#">Quem Somos</a>
+                <a href="#">QUEM SOMOS</a>
               </li>
               <li>
-                <a href="#">Contato</a>
+                <a href="#">CONTATO</a>
               </li>
               <li>
-                <a href="#">Loja</a>
+                <a href="#">LOJA</a>
               </li>
             </ul>
           </nav>
 
           <div class="btn-carrinho">
             <a href="#">
-              <button>Carrinho</button>
+              <button><i class="fa-solid fa-bag-shopping"></i></button>
             </a>
           </div>
         </div>
